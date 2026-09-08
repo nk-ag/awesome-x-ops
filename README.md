@@ -269,6 +269,7 @@ Tools for tracing, evaluating, debugging, and operating LLM, RAG, and agent appl
 - [Tracely](https://github.com/Jwuthri/Tracely-ai): Trace-native CI/CD for AI agents that turns production failures into hermetic regression cases, replays them in CI, and blocks regressions without model spend.
 - [agenttrail](https://github.com/sodiumsun/agenttrail): Local-first observability for coding agents that turns filesystem activity, plans, and supported agent events into live project and task views without running the agents itself.
 - [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval): Unified multimodal evaluation toolkit covering 100+ text, image, video, and audio benchmark tasks, with reproducible pipelines and async serving for large-scale model evaluation.
+- [Failproof](https://github.com/FailproofAI/failproofai): Learn from agent traces to find failure modes and fix them with policies.
 
 ## AI Serving and Inference Operations
 
